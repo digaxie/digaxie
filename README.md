@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:8B5CF6,100:F43F5E&text=digaxie&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Developer%20%E2%80%A2%20System%20Tinkerer%20%E2%80%A2%20Practical%20Tools%20%26%20Fixes&descAlign=50&descAlignY=58&descSize=18" alt="digaxie profile banner" />
+  <img src="https://raw.githubusercontent.com/digaxie/digaxie/main/assets/banner.svg" alt="digaxie profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+tools+that+remove+daily+friction.;Ad-blockers%2C+performance+fixes%2C+DPI+bypass+%26+clean+UIs.;If+something+feels+bloated+or+clunky%2C+I+fix+it." alt="Typing intro" />
+  <em>⚡ I build tools that remove daily friction — ad-blockers, performance fixes, DPI bypass, and clean interfaces.</em>
 </p>
+
+---
 
 ## ⚡ About Me
 
@@ -53,8 +55,8 @@ Currently focusing on **Electron optimization & ad-blocking**, **networking/DPI 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digaxie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digaxie&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=digaxie&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digaxie&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
